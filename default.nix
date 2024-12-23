@@ -19,4 +19,5 @@ let
     };
 in {
   friendlyElec-nanoPiR4S-SPI = evalFor ./boards/friendlyElec-nanoPiR4S-SPI;
+  tanix-tx3-mini = evalFor ./boards/tanix-tx3-mini;
 }
